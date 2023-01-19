@@ -1,0 +1,28 @@
+{
+  "name": "styled-components-full-document-hydration-problem",
+  "version": "0.0.0-development",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Xiphe/styled-components-full-document-hydration-problem.git"
+  },
+  "author": "Hannes Diercks <node@xiphe.net> (https://xiphe.net/)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Xiphe/styled-components-full-document-hydration-problem/issues"
+  },
+  "homepage": "https://github.com/Xiphe/styled-components-full-document-hydration-problem#readme",
+  "dependencies": {
+    "parcel": "2.8.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "styled-components": "5.3.6"
+  },
+  "devDependencies": {
+    "process": "0.11.10"
+  }
+}
